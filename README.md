@@ -1,6 +1,8 @@
 Structured General Purpose
 --------------------------
 
+[![PDF Status](https://www.sharelatex.com/github/repos/srijanshetty/assignment-template/builds/latest/badge.svg)](https://www.sharelatex.com/github/repos/srijanshetty/assignment-template/builds/latest/output.pdf)
+
 ## Description:
 
 This template is suitable for assignments/homework that are given in a clear structured order with multiple questions. Each question can be given a custom name and consists of the question text followed by the answer in a frame. Sections within each question (e.g. 1(a), 1(b), etc) are also permissible in the same format.
